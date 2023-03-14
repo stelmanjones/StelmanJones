@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-### A very curious dev addicted to all things programming and tech.
 
 ---
 
