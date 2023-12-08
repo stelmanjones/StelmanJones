@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StelmanJones&theme=dracula) ![rt](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=StelmanJones&theme=dracula)
+![langs](https://github-readme-stats-stelmanjones.vercel.app/api/top-langs/?username=stelmanjones&theme=tokyonight) ![rt](https://github-readme-stats-stelmanjones.vercel.app/api?username=stelmanjones&theme=highcontrast)
 
 ### Editors
 ![nvim](https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=Neovim&logoColor=white) ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-483699.svg?style=for-the-badge&logo=Obsidian&logoColor=white)
